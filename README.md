@@ -10,4 +10,4 @@ Instructions for main exercise (rush00):
 
 - internal area should be filled with blank spaces
 
-Not valid for bonus exercises (rush01, rush02, rush03 and rush04); Instructions may change
+Not valid for bonus exercises (rush01, rush02, rush03 and rush04); Instructions may vary
